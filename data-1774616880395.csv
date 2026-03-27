@@ -1,0 +1,41 @@
+company_id,company_name,industry,website,contact_id,first_name,last_name,email,deal_id,deal_name,stage,amount,activity_id,activity_type,activity_date,notes
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,21,Software Update,Negotiation,25000.00,1,Call,2026-01-15,Discussed software requirements
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,1,Software Supply,Proposal,50000.00,1,Call,2026-01-15,Discussed software requirements
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,21,Software Update,Negotiation,25000.00,2,Email,2026-01-16,Commercial proposal sent
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,1,Software Supply,Proposal,50000.00,2,Email,2026-01-16,Commercial proposal sent
+2,Best Service IP,Services,bestservice.ru,2,Petr,Sergeev,p.sergeev@bestservice.ru,2,Consultation,Qualification,15000.00,3,Meeting,2026-01-20,Initial consultation
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,3,Alexey,Kuznetsov,a.kuznetsov@tehnoprom.ru,22,Maintenance Service,Proposal,45000.00,4,Call,2026-01-22,Equipment specification agreed
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,3,Alexey,Kuznetsov,a.kuznetsov@tehnoprom.ru,3,Equipment,Negotiation,250000.00,4,Call,2026-01-22,Equipment specification agreed
+4,StroyInvest LLC,Construction,stroyinvest.ru,4,Maria,Sokolova,m.sokolova@stroyinvest.ru,4,Construction Materials,Proposal,150000.00,5,Meeting,2026-01-25,Site inspection
+5,Ivanov AA IP,Trade,ivanov.ru,5,Ivan,Petrov,i.petrov@ivanov.ru,23,Additional Equipment,Qualification,28000.00,6,Email,2026-01-28,Product catalog sent
+5,Ivanov AA IP,Trade,ivanov.ru,5,Ivan,Petrov,i.petrov@ivanov.ru,5,Trade Equipment,Qualification,75000.00,6,Email,2026-01-28,Product catalog sent
+6,AlfaSoft LLC,IT,alfa-soft.ru,6,Elena,Smirnova,e.smirnova@alfa-soft.ru,6,CRM Development,In Progress,300000.00,7,Call,2026-02-01,Development timeline discussion
+7,MedicalGroup CJSC,Healthcare,medicalgroup.ru,7,Dmitry,Volkov,d.volkov@medicalgroup.ru,7,Medical Equipment,Negotiation,500000.00,8,Meeting,2026-02-05,Medical equipment presentation
+8,LogisticCenter LLC,Logistics,logistik.ru,8,Anna,Morozova,a.morozova@logistik.ru,8,Logistics Services,Proposal,120000.00,9,Email,2026-02-08,Delivery cost calculation
+9,FinanceConsult JSC,Finance,finansconsult.ru,9,Sergey,Novikov,s.novikov@finansconsult.ru,9,Financial Audit,Closed,80000.00,10,Call,2026-02-10,Preliminary audit results
+10,EnergoSbyt LLC,Energy,energosbyt.ru,10,Tatiana,Kozlova,t.kozlova@energosbyt.ru,10,Power Supply,Qualification,450000.00,11,Meeting,2026-02-12,Power supply contract signed
+11,Petrova EV IP,Education,petrova.ru,11,Nikolay,Lebedev,n.lebedev@petrova.ru,11,Training Courses,Proposal,35000.00,12,Email,2026-02-15,Training program sent
+12,AutoTrade LLC,Automotive,avtotrade.ru,12,Irina,Solovieva,i.solovieva@avtotrade.ru,12,Cars,Negotiation,950000.00,13,Call,2026-02-18,Test drive scheduled
+13,AgroHolding CJSC,Agriculture,agroholding.ru,13,Vladimir,Zaytsev,v.zaytsev@agroholding.ru,13,Fertilizers,In Progress,180000.00,14,Meeting,2026-02-20,Fertilizer supply discussion
+14,TravelCompany LLC,Tourism,travel.ru,14,Natalia,Vasilieva,n.vasilieva@travel.ru,14,Tour Packages,Qualification,25000.00,15,Email,2026-02-22,Tour package confirmed
+15,InsuranceProtection JSC,Insurance,strahovka.ru,15,Andrey,Pavlov,a.pavlov@strahovka.ru,15,Insurance,Proposal,45000.00,16,Call,2026-02-25,Insurance premium calculation
+16,AdvertisingAgency LLC,Advertising,reklama.ru,16,Yulia,Egorova,y.egorova@reklama.ru,16,Advertising Campaign,Negotiation,200000.00,17,Meeting,2026-02-28,Media plan development
+17,Smirnov DD IP,Consulting,smirnov.ru,17,Oleg,Sidorov,o.sidorov@smirnov.ru,17,Business Consulting,In Progress,95000.00,18,Email,2026-03-01,Business process analysis
+18,IndustrialSolutions LLC,Industry,promresheniya.ru,18,Ksenia,Mikhailova,k.mikhailova@promresheniya.ru,18,Industrial Equipment,Closed,780000.00,19,Call,2026-03-03,Technical specifications agreed
+19,TradingHouse CJSC,Wholesale,torgdom.ru,19,Maxim,Fedorov,m.fedorov@torgdom.ru,19,Goods Supply,Proposal,320000.00,20,Meeting,2026-03-05,Contract signed
+20,InnovativeTech LLC,Science,innov-tech.ru,20,Ekaterina,Andreeva,e.andreeva@innov-tech.ru,20,IT Infrastructure,Qualification,550000.00,21,Email,2026-03-08,Technical specification approved
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,21,Software Update,Negotiation,25000.00,22,Call,2026-03-10,Delivery details clarification
+1,Romashka LLC,Retail,romashka.com,1,Olga,Ivanova,o.ivanova@romashka.com,1,Software Supply,Proposal,50000.00,22,Call,2026-03-10,Delivery details clarification
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,3,Alexey,Kuznetsov,a.kuznetsov@tehnoprom.ru,22,Maintenance Service,Proposal,45000.00,23,Meeting,2026-03-12,Equipment demonstration
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,3,Alexey,Kuznetsov,a.kuznetsov@tehnoprom.ru,3,Equipment,Negotiation,250000.00,23,Meeting,2026-03-12,Equipment demonstration
+5,Ivanov AA IP,Trade,ivanov.ru,5,Ivan,Petrov,i.petrov@ivanov.ru,23,Additional Equipment,Qualification,28000.00,24,Email,2026-03-15,Commercial proposal sent
+5,Ivanov AA IP,Trade,ivanov.ru,5,Ivan,Petrov,i.petrov@ivanov.ru,5,Trade Equipment,Qualification,75000.00,24,Email,2026-03-15,Commercial proposal sent
+7,MedicalGroup CJSC,Healthcare,medicalgroup.ru,7,Dmitry,Volkov,d.volkov@medicalgroup.ru,7,Medical Equipment,Negotiation,500000.00,25,Call,2026-03-18,Delivery schedule agreed
+9,FinanceConsult JSC,Finance,finansconsult.ru,9,Sergey,Novikov,s.novikov@finansconsult.ru,9,Financial Audit,Closed,80000.00,26,Meeting,2026-03-20,Final audit report
+11,Petrova EV IP,Education,petrova.ru,11,Nikolay,Lebedev,n.lebedev@petrova.ru,11,Training Courses,Proposal,35000.00,27,Call,2026-03-22,Training enrollment
+1,Romashka LLC,Retail,romashka.com,21,Svetlana,Nikitina,s.nikitina@romashka.com,21,Software Update,Negotiation,25000.00,NULL,NULL,NULL,NULL
+1,Romashka LLC,Retail,romashka.com,21,Svetlana,Nikitina,s.nikitina@romashka.com,1,Software Supply,Proposal,50000.00,NULL,NULL,NULL,NULL
+4,StroyInvest LLC,Construction,stroyinvest.ru,24,Vasily,Stepanov,v.stepanov@stroyinvest.ru,4,Construction Materials,Proposal,150000.00,NULL,NULL,NULL,NULL
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,23,Victoria,Orlova,v.orlova@tehnoprom.ru,22,Maintenance Service,Proposal,45000.00,NULL,NULL,NULL,NULL
+3,TechnoProm JSC,Manufacturing,tehnoprom.ru,23,Victoria,Orlova,v.orlova@tehnoprom.ru,3,Equipment,Negotiation,250000.00,NULL,NULL,NULL,NULL
+2,Best Service IP,Services,bestservice.ru,22,Konstantin,Makarov,k.makarov@bestservice.ru,2,Consultation,Qualification,15000.00,NULL,NULL,NULL,NULL
