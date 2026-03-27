@@ -2,8 +2,12 @@
 
 ## Ссылки
 [Данные в DataLens](https://datalens.yandex/59xswrthfchqp)
+
+
 [Дамп с расширением sql](samrab.sql)
-[scv-файл](samrab.sql)
+
+
+[csv-файл](data-1774616880395.csv)
 
 
 ## Цель работы
@@ -40,10 +44,15 @@ CRM (Управление взаимоотношениями с клиентам
 Создан запрос с INNER JOIN, объединяющий все четыре таблицы для получения полной информации о взаимодействиях с клиентами.
 <img width="1850" height="1022" alt="image" src="https://github.com/user-attachments/assets/2e6745c5-744d-463a-82c6-503fd140676c" />
 
+[Дамп с расширением sql](samrab.sql)
+
 
 ## Визуализация в DataLens
 
+Сделана с помощью [csv-файла](data-1774616880395.csv)
+
 [Данные в DataLens](https://datalens.yandex/59xswrthfchqp)
+
 
 ### 1. Динамика выручки по датам 
 Параметры:
